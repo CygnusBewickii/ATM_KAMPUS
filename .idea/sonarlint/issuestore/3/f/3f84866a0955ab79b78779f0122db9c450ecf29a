@@ -1,5 +1,7 @@
 
-É
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãïŠ¹ıÿÿÿÿ8å“ì‡ñ1J$85c83cd2-6fc9-4fe9-b5ac-5a7d42e1da8b
-k
-java:S1068"(Remove this unused "cash" private field.(ñò¯8ê“ì‡ñ1J$3df38e4c-151d-4f02-8f2e-8c3f41618457
+‰
+java:S1192"FDefine a constant instead of duplicating this literal "ERROR" 4 times.(á·„8–®Î´ñ1J$975043a1-da94-40e8-b920-f76febdb37ef
+t
+java:S1602I",Remove useless curly braces around statement(–ñæ¸şÿÿÿÿ8ù®Î´ñ1J$6e1fa0f9-0edd-4a01-a2bc-359d0f973730
+‰
+java:S1126V"AReplace this if-then-else statement by a single return statement.(„Õí¶øÿÿÿÿ8ü®Î´ñ1J$39d9a6b0-7e00-44c4-877b-9557bb3f487e
